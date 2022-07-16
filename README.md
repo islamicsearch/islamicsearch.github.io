@@ -1,3 +1,2 @@
-# islamicsearch.github.io
-Islamic Search Engine
-https://islamicsearch.github.io/
+# Google for Shia
+https://play.google.com/store/apps/details?id=io.github.mahdihusain.shiasearch
